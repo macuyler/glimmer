@@ -30,6 +30,8 @@ the correct firmware and revive my Chromebook!
 | Outer | . | . | . | . | . | . | . | . | . | 4 | . | 1 | . | . | . | . | . | . | . | . |
 | Inner | . | 3 | . | 7 | . | . | . | . | 8 | 5 | 2 | 6 | . | . | . | . | . | . | . | . |
 
+![rpi3b-zoomed-pinout](https://user-images.githubusercontent.com/10450774/218293916-620f9478-aa19-4d7c-b6ec-506769f68fd6.jpeg)
+
 ### SOIC Clip
 
 > Any side can be top or bottom. You just need to know which side goes where
@@ -39,6 +41,8 @@ the correct firmware and revive my Chromebook!
 |-|-|-|-|-|
 | Top |8|7|6|5|
 | Bottom |1|2|3|4|
+
+![soic-flasher](https://user-images.githubusercontent.com/10450774/218293946-cb479f65-2647-4376-9e20-d8896600312d.png)
 
 ## References
 
