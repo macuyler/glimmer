@@ -6,6 +6,8 @@ incompatible firmware and bricked it.
 I was eventually able to acquire an SOIC8 clip, and run these scripts to flash
 the correct firmware and revive my Chromebook!
 
+> ThinkPad Yoga 11e **US Model #:** 20DB000GUS
+
 ## Wiring
 
 ### Wiring Key
